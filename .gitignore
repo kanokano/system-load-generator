@@ -1,0 +1,6 @@
+*.class
+*.swp
+.vscode/
+.gradle/
+.idea/
+**/build/

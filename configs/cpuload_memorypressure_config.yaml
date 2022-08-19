@@ -1,0 +1,3 @@
+minCpuLoadPercentage: 0.3
+maxCpuLoadPercentage: 0.5
+ramUsageBytes: 2048
